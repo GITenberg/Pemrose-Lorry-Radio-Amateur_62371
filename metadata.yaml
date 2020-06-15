@@ -6,6 +6,9 @@ contributor:
     alias: Rollins, Nana Bickford
     gutenberg_agent_id: '37972'
     url: http://www.gutenberg.org/2009/agents/37972
+covers:
+- cover_type: archival
+  image_path: 62371-h/images/cover.jpg
 creator:
   author:
     agent_name: Hornibrook, Isabel
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '5299'
     url: http://www.gutenberg.org/2009/agents/5299
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62371#Pemrose-Lorry-Radio-Amateur
 gutenberg_issued: '2020-06-11'
 gutenberg_type: Text
 identifiers:
