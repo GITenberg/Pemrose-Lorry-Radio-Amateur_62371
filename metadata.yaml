@@ -1,0 +1,28 @@
+_repo: Pemrose-Lorry-Radio-Amateur_62371
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bickford, Nana French
+    alias: Rollins, Nana Bickford
+    gutenberg_agent_id: '37972'
+    url: http://www.gutenberg.org/2009/agents/37972
+creator:
+  author:
+    agent_name: Hornibrook, Isabel
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '5299'
+    url: http://www.gutenberg.org/2009/agents/5299
+description: ''
+gutenberg_issued: '2020-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pemrose Lorry, Radio Amateur
+url: http://www.gutenberg.org/ebooks/62371
